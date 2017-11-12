@@ -46,6 +46,8 @@
 <div class="fragment"><h3>1956 Marvin Minsky</h3></div>
 <div class="fragment"><h3>1965-1980s Expert Systems</h3></div>
 
+Note:
+
 ---
 
 ![timeline](https://image.slidesharecdn.com/aihistory-to-mlearning-150605140809-lva1-app6892/95/ai-history-tomlearning-4-638.jpg)
@@ -105,23 +107,6 @@
 </div>
 
 ---
-#### No more <span class="gray">Keynote</span>.
-#### No more <span class="gray">Powerpoint</span>.
-<br>
-#### Just <span class="gold">Markdown</span>.
-#### Then <span class="gold">Git-Commit</span>.
-
----
-
-<span class="menu-title" style="display: none">Step 1. PITCHME.md</span>
-
-### <span class="gold">STEP 1. Create 'PITCHME.md'</span>
-<br>
-#### Create GitPitch slideshow content using GitHub Flavored Markdown in your favorite editor.
-<br>
-<span class="aside">It's as easy as README.md with simple slide-delimeters (---)</span>
-
----
 
 <span class="menu-title" style="display: none">Step 2. Git-Commit</span>
 
@@ -142,45 +127,3 @@ Done!
 <span class="code-presenting-annotation fragment current-only" data-code-focus="5">Supports GitHub, GitLab, Bitbucket, GitBucket, Gitea, and Gogs.</span>
 
 ---
-
-<span class="menu-title" style="display: none">Step 3. Done!</span>
-
-### <span class="gold">STEP 3. GET THE WORD OUT!</span>
-<br>
-![Image](./assets/md/assets/gp-slideshow-urls.png)
-<br>
-<br>
-#### Instantly use your GitPitch slideshow URL to promote, pitch or present absolutely anything.
-
----
-
-<span class="menu-title" style="display: none">Slide Rich</span>
-
-### <span class="gold">Slide Rich</span>
-
-#### Code Presenting for Blocks, Files, and GISTs
-#### Image, Video, Chart, and Math Slides
-#### Multiple Themes with Easy Customization
-<br>
-#### <span class="gold">Plus collaboration is built-in...</span>
-#### Your Slideshow is Part of Your Project
-#### Under Git Version Control within Your Git Repo
-
----
-
-<span class="menu-title" style="display: none">Feature Rich</span>
-
-### <span class="gold">Feature Rich</span>
-
-#### Present Online or Offline
-#### With Speaker Notes Support
-#### Print Presentation as PDF
-#### Auto-Generated Table-of-Contents
-#### Share Presentation on Twitter or LinkedIn
-
----
-
-### Go for it.
-### Just add <span class="gold">PITCHME.md</span> ;)
-<br>
-[Click here to learn more...](https://github.com/gitpitch/gitpitch/wiki)
