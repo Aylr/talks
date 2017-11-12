@@ -47,6 +47,7 @@
 <div class="fragment"><h3>1965-1980s Expert Systems</h3></div>
 
 Note:
+- **Insert short one liners about each here**
 
 ---
 

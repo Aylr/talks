@@ -1,3 +1,4 @@
 theme : black
-footnote : ""
-logo : assets/healthcareai_logo.png
+footnote : "http://healthcare.ai"
+logo : assets/healthcareai_logo_120.png
+slide-number : false
