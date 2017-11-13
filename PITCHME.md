@@ -84,10 +84,24 @@ Note:
 
 ---
 
+## healthcare.ai
+
+### Feature Engineering
+
+### Model Development
+
+### Model Deployment
+
+### Extras
+
+---
+
 # Resources
 
-- healthcare.ai
-    + slack channel
+- healthcare.ai community
+    + Education
+    + Open Source Tools
+    + Slack channel
 - healthcatalyst.com
 - taylor.miller@healthcatalyst.com
 
