@@ -38,26 +38,25 @@ Note:
 - Marketing & Finance: Amazon, PayPal
 - Consumer Goods: Siri, Alexa, Google Home
 - Entertainment: Facebook, Netflix, YouTube, Spotify
-- Travel: Airbnb, Kayak
+- Travel: GE, Airbnb, Kayak
 <br/>
 <br/>
 <br/>
 
 <div class='fragment'><h2>Everywhere</h2></div>
-<div class='fragment'><h2>...except healthcare</h2></div>
+<div class='fragment'><h2>...except healthcare<sup>*</sup></h2></div>
+
+Note:
+- GE **digital twin**
 
 ---
 
 # What about _in_ healthcare?
 
-## Dr Topol
-
 Note:
 - Lots of hype from Google, IBM, etc.
 
 ---
-
-#### ML/AI in Healthcare
 
 > We should stop training radiologists right now, in 5 years deep learning will have better performance.
 
@@ -69,12 +68,11 @@ Note:
 - fathers of deep learning
 - While there may not be much ML/AI in healthcare now, there will be
 - It will come faster than you realize.
-
-1. A Bay area startup gets FDA approval.
-2. Their pricing will be orders of magnitude lower than humans.
-3. Payers will change reimbursement.
-4. Done.
-
+- process
+    1. A Bay area startup gets FDA approval.
+    2. Their pricing will be orders of magnitude lower than humans.
+    3. Payers will change reimbursement.
+    4. Done.
 
 ---
 
