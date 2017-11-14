@@ -2,16 +2,13 @@
 # AI & ML
 ### Successes, Lessons Learned & Getting Started
 
-
 ---
 
 # Who Am I
 
 #### Taylor Miller PharmD
 
-GAP first
-
-successes
+github: @Aylr
 
 ---
 
@@ -28,33 +25,35 @@ Note:
 
 # What to expect
 
-### What is AI/Machine Learning?
-### The healthcare gap
-### Successes & Benefits
+### Healthcare gap
+### What is ML?
+### Why ML?
+### Successes
 ### Lessons Learned
-### Getting Started
 
 ---
 
 ## Where is AI/ML Used?
 
-- Marketing: Amazon
-- Smartphones
-- Consumer Goods (Siri, Alexa, Google Home)
-- Entertainment: Netflix
-- Travel: Airbnb
+- Marketing & Finance: Amazon, PayPal
+- Consumer Goods: Siri, Alexa, Google Home
+- Entertainment: Facebook, Netflix, YouTube, Spotify
+- Travel: Airbnb, Kayak
 <br/>
 <br/>
 <br/>
 
-## Everywhere
-## ...except healthcare
+<div class='fragment'><h2>Everywhere</h2></div>
+<div class='fragment'><h2>...except healthcare</h2></div>
 
 ---
 
 # What about _in_ healthcare?
 
 ## Dr Topol
+
+Note:
+- Lots of hype from Google, IBM, etc.
 
 ---
 
@@ -244,8 +243,8 @@ Note:
 #### COPD Readmission
 
 Note:
+- 50% CLABSI reduction large teaching hospital
 - CLABSI & sepsis risks actionable and displayed in workflows
-- 
 
 ---
 
@@ -268,6 +267,10 @@ Note:
 #### Care Management
 #### Opioid Abuse Risk
 
+Note:
+- Client able to optimize scheduling for no show patients
+- Early opioid risk work
+
 ---
 
 # Lessons Learned
@@ -280,6 +283,11 @@ Note:
 2. Organize a rich dataset
 3. Develop & validate a model
 4. Surface the insight
+- Work iteratively
+
+Note:
+- This seems obvious in retrospect.
+- Agile development methodologies are a game changer
 
 ---
 
@@ -288,6 +296,9 @@ Note:
 ### Domain Expert
 ### Analyst
 ### Data Scientist
+
+Note:
+- Magic happens when you pair a good analyst with a domain expert
 
 ---
 
@@ -306,6 +317,7 @@ Note:
 3. Insights need context
 4. Fail fast
 5. Continually monitor
+6. Interpretation is hard
 
 Note:
 1. Paired
