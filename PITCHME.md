@@ -11,11 +11,22 @@
 
 ---
 
+# Who are you?
+
+Note:
+- how many work in healthcare?
+- how many are analysts?
+- clinicians?
+- leaders?
+- new to machine learning?
+
+---
+
 # What to expect
 
-## What is AI/ML?
-## Benefits
-## Successes
+## What is AI/Machine Learning?
+## The healthcare gap
+## Successes & Benefits
 ## Lessons Learned
 ## Getting Started
 
@@ -56,6 +67,12 @@ Note:
 ---
 
 # ML In 5 Minutes
+
+---
+
+# Signal vs Noise
+
+**show two graphs illustrating this concept**
 
 ---
 
@@ -133,6 +150,107 @@ Note:
 > We should stop training radiologists right now, in 5 years deep learning will have better performance.
 
 #### Geoff Hinton
+
+<img src="https://images.thestar.com/content/dam/thestar/news/world/2015/04/17/how-a-toronto-professors-research-revolutionized-artificial-intelligence/geoffrey-hinton-3.jpg.size-custom-crop.1086x0.jpg" style="width: 300px" />
+
+Note:
+- fathers of deep learning
+- While there may not be much ML/AI in healthcare now, there will be
+- It will come faster than you realize.
+
+1. A Bay area startup gets FDA approval.
+2. Their pricing will be orders of magnitude lower than humans.
+3. Payers will change reimbursement.
+4. Done.
+
+---
+
+# But, really, why ML?
+
+### LACE
+
+#### C statistic 0.68
+
+- Predicts 30 day readmission or death risk.
+- 4812 patients in Ontario
+
+doi:  10.1503/cmaj.091117
+
+Note:
+- 
+
+---
+
+# Success Stories
+
+---
+
+# Clinical
+
+#### CLABSI Risk
+#### Sepsis Risk
+#### Heart Failure Readmission
+#### COPD Readmission
+
+---
+
+# Operational & Financial
+
+#### Propensity to Pay
+#### Service Line Verification
+#### High Cost Imaging
+
+---
+
+# Population Health
+
+#### No-shows
+#### Care Management
+#### Opioid Abuse Risk
+
+---
+
+# Lessons Learned
+
+---
+
+## Incorporating ML
+
+1. Choose a problem
+2. Organize a rich dataset
+3. Develop & validate a model
+4. Surface the insight
+
+---
+
+# Key Players
+
+### Domain Expert
+### Analyst
+### Data Scientist
+
+---
+
+# Technical Integration
+
+## This is hard
+
+---
+
+## Hard Lessons Learned
+
+1. Predictions + actionable insight
+2. Surface in workflows
+3. Insights need context
+4. Fail fast
+5. Continually monitor
+
+Note:
+1. Paired
+2. key to adoption
+3. context for informed decision
+4. work with domain expert
+5. lots of moving parts
 
 ---
 
