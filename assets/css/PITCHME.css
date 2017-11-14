@@ -8,4 +8,6 @@
 	text-align: left;
 	font-size: 0.5em;
 	margin-top: 0.5em;
+	position: absolute;
+	bottom: -130%;
 }
