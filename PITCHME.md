@@ -9,6 +9,10 @@
 
 #### Taylor Miller PharmD
 
+GAP first
+
+successes
+
 ---
 
 # Who are you?
@@ -29,6 +33,49 @@ Note:
 ### Successes & Benefits
 ### Lessons Learned
 ### Getting Started
+
+---
+
+## Where is AI/ML Used?
+
+- Marketing: Amazon
+- Smartphones
+- Consumer Goods (Siri, Alexa, Google Home)
+- Entertainment: Netflix
+- Travel: Airbnb
+<br/>
+<br/>
+<br/>
+
+## Everywhere
+## ...except healthcare
+
+---
+
+# What about _in_ healthcare?
+
+## Dr Topol
+
+---
+
+#### ML/AI in Healthcare
+
+> We should stop training radiologists right now, in 5 years deep learning will have better performance.
+
+#### Geoff Hinton
+
+<img src="https://images.thestar.com/content/dam/thestar/news/world/2015/04/17/how-a-toronto-professors-research-revolutionized-artificial-intelligence/geoffrey-hinton-3.jpg.size-custom-crop.1086x0.jpg" style="width: 300px" />
+
+Note:
+- fathers of deep learning
+- While there may not be much ML/AI in healthcare now, there will be
+- It will come faster than you realize.
+
+1. A Bay area startup gets FDA approval.
+2. Their pricing will be orders of magnitude lower than humans.
+3. Payers will change reimbursement.
+4. Done.
+
 
 ---
 
@@ -120,48 +167,6 @@ Note:
     + lasso
     + neural nets
     + deep learning
-
----
-
-## Where is AI/ML Used?
-
-- Marketing: Amazon
-- Smartphones
-- Consumer Goods (Siri, Alexa, Google Home)
-- Entertainment: Netflix
-- Travel: Airbnb
-<br/>
-<br/>
-<br/>
-
-## Everywhere
-## ...except healthcare
-
----
-
-# What about _in_ healthcare?
-
-## Dr Topol
-
----
-
-#### ML/AI in Healthcare
-
-> We should stop training radiologists right now, in 5 years deep learning will have better performance.
-
-#### Geoff Hinton
-
-<img src="https://images.thestar.com/content/dam/thestar/news/world/2015/04/17/how-a-toronto-professors-research-revolutionized-artificial-intelligence/geoffrey-hinton-3.jpg.size-custom-crop.1086x0.jpg" style="width: 300px" />
-
-Note:
-- fathers of deep learning
-- While there may not be much ML/AI in healthcare now, there will be
-- It will come faster than you realize.
-
-1. A Bay area startup gets FDA approval.
-2. Their pricing will be orders of magnitude lower than humans.
-3. Payers will change reimbursement.
-4. Done.
 
 ---
 
