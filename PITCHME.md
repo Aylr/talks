@@ -45,15 +45,64 @@
 <div class="fragment"><h3>1950 Alan Turing</h3></div>
 <div class="fragment"><h3>1956 Marvin Minsky</h3></div>
 <div class="fragment"><h3>1965-1980s Expert Systems</h3></div>
+<div class="fragment"><h3>AI Winter(s)</h3></div>
+<div class="fragment"><h3>2006 Deep Learning</h3></div>
+
+<div class="fragment">https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html</div>
 
 Note:
 - **Insert short one liners about each here**
 
 ---
 
-![timeline](https://image.slidesharecdn.com/aihistory-to-mlearning-150605140809-lva1-app6892/95/ai-history-tomlearning-4-638.jpg)
+# ML In 5 Minutes
 
-## The AI Winters
+---
+
+# 2 Main Types
+
+### Unsupervised
+
+### Supervised
+
+Note:
+
+- No ground truth
+- Known ground truth
+
+---
+
+# Ground Truth?
+
+| age | height | gender | BMI | A1c | Retinopathy |
+| --- | ------ | ------ | --- | --- | ----------- |
+| 33  |  152   |   F    |  18 | 5.6 |      N      |
+| 66  |  168   |   M    |  21 | 8.9 |      Y      |
+| ... |  ...   |   ...  | ... | ... |     ...     |
+| 27  |  140   |   M    |  18 | 7.2 |      N      |
+| 45  |  159   |   F    |  31 | 7.5 |      Y      |
+
+Note:
+
+- **Dimension** = **feature** = **field**
+- **target** = ground truth
+
+---
+
+# Traning
+
+## 80% of data is used to train.
+
+## 20% used to evaluate & validate.
+
+Note:
+
+- This is where you'll hear algorithm names like
+    + random forest
+    + linear regression
+    + lasso
+    + neural nets
+    + deep learning
 
 ---
 
@@ -64,6 +113,9 @@ Note:
 - Consumer Goods (Siri, Alexa, Google Home)
 - Entertainment: Netflix
 - Travel: Airbnb
+<br/>
+<br/>
+<br/>
 
 ## Everywhere
 ## ...except healthcare
@@ -78,7 +130,7 @@ Note:
 
 #### ML/AI in Healthcare
 
-> We should stop training radiologists right now, in 5 years deep learning will hvae better performance.
+> We should stop training radiologists right now, in 5 years deep learning will have better performance.
 
 #### Geoff Hinton
 
