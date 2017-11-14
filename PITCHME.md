@@ -174,7 +174,7 @@ Note:
 - Predicts 30 day readmission or death risk.
 - 4812 patients in Ontario
 
-doi:  10.1503/cmaj.091117
+<div class='ref'>doi:  10.1503/cmaj.091117</div>
 
 Note:
 - 
