@@ -59,7 +59,7 @@ Note:
 <div class="fragment"><h3>AI Winter(s)</h3></div>
 <div class="fragment"><h3>2006 Deep Learning</h3></div>
 
-<div class="fragment">https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html</div>
+<div class="fragment ref">https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html</div>
 
 Note:
 - **Insert short one liners about each here**
