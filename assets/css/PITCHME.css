@@ -1,0 +1,10 @@
+.reveal section img {
+  border: 0;
+  box-shadow: none;
+}
+
+.reveal .ref {
+	text-align: left;
+	border: 1px solid red;
+	font-size: 0.8em;
+}
