@@ -165,19 +165,62 @@ Note:
 
 ---
 
-# But, really, why ML?
+# But, Why ML?
 
-### LACE
+Note:
+- we've talked about
+    + hype
+    + what
+- not the **why**
 
-#### C statistic 0.68
+---
 
-- Predicts 30 day readmission or death risk.
-- 4812 patients in Ontario
+# LACE Score
+
+- 30 day readmission or death
+- Easy to calculate
+
+---
+
+# LACE
+
+|     |                        |
+| --- | ---------------------- |
+| L   | Length of stay         |
+| A   | Acute admission        |
+| C   | Charleston comorbidity |
+| E   | ER visits last 6 mo    |
+|     |                        |
+
+Note:
+- Tell the story of readmissions
+
+---
+
+# LACE Gotchas
+
+#### 4812 patients in Ontario
 
 <div class='ref'>doi:  10.1503/cmaj.091117</div>
 
 Note:
-- 
+- What are the changes that your patients == Ontario patients?
+
+---
+
+# ML vs LACE
+
+<div class='fragment'><h2>LACE: 0.68</h2></div>
+<div class='fragment'><h2>Best literature: XXXXX</h2></div>
+<div class='fragment'><h2>Client ML Model: XXXXX</h2></div>
+
+<div class='ref'>doi:  10.1503/cmaj.091117</div>
+
+Note:
+- C-stats measure the balance between True Positive & False Positive Rates
+- 0.5 = coin flip
+- 1.0 = perfect
+- This means better predictions, less false positives & less false negatives
 
 ---
 
@@ -234,6 +277,8 @@ Note:
 # Technical Integration
 
 ## This is hard
+
+**maybe not needed?**
 
 ---
 
