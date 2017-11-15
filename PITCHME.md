@@ -122,7 +122,8 @@ Note:
 
 # Signal vs Noise
 
-**show two graphs illustrating this concept**
+![signal](assets/signal.png)
+![noise](assets/noise.png)
 
 ---
 
