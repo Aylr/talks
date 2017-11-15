@@ -122,8 +122,8 @@ Note:
 
 # Signal vs Noise
 
-![signal](assets/signal.png)
-![noise](assets/noise.png)
+<img src='assets/signal.png' class='signal' />
+<img src='assets/noise.png' class='signal' />
 
 ---
 

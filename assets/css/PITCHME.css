@@ -3,6 +3,10 @@
   box-shadow: none;
 }
 
+.reveal img.signal {
+  width: 33%;
+}
+
 .reveal .ref {
   color: #bbb;
   text-align: left;
