@@ -225,22 +225,26 @@ Note:
 
 # LACE Gotchas
 
-#### 4812 patients in Ontario
+## 4812 patients in Ontario
+## Only works at discharge
 
 <div class='ref'>doi:  10.1503/cmaj.091117</div>
 
 Note:
-- What are the changes that your patients == Ontario patients?
+- Raise your hands if your patient demographics == Ontario patients?
+- How actionable is it at discharge?
 
 ---
 
 # ML vs LACE
 
-<div class='fragment'><h2>LACE: 0.68*</h2></div>
-<div class='fragment'><h2>Best literature: 0.78†</h2></div>
+#### C-Statistic
+
+<div><h2>LACE: 0.68<sup>&ast;</sup></h2></div>
+<div class='fragment'><h2>Best published ML: 0.78<sup>&ast;&ast;</sup></h2></div>
 <div class='fragment'><h2>Client ML Model: 0.84</h2></div>
 
-<div class='ref'>*doi: 10.1503/cmaj.091117<br/>†doi: 10.1142/9789813207813_0027.</div>
+<div class='ref'><sup>&ast;</sup>doi: 10.1503/cmaj.091117<br/><sup>&ast;&ast;</sup>doi: 10.1142/9789813207813_0027</div>
 
 Note:
 - C-stats measure the balance between True Positive & False Positive Rates
@@ -254,6 +258,12 @@ Note:
 ---
 
 # Success Stories
+
+Note:
+- We don't aim for sexy headlines
+- in other words we aren't trying to cure cancer
+- chipping away at pragmatic problems
+- healtcare is rife with low hanging fruit
 
 ---
 
@@ -305,7 +315,7 @@ Note:
 2. Organize a rich dataset
 3. Develop & validate a model
 4. Surface the insight
-- Work iteratively
+5. Be Agile
 
 Note:
 - This seems obvious in retrospect.
