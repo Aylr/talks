@@ -398,23 +398,3 @@ Note:
 </div>
 
 ---
-
-<span class="menu-title" style="display: none">Step 2. Git-Commit</span>
-
-### <span class="gold">STEP 2. GIT-COMMIT</span>
-<br>
-
-```shell
-$ git add PITCHME.md
-$ git commit -m "New slideshow content."
-$ git push
-
-Done!
-```
-
-<span class="code-presenting-annotation fragment current-only" data-code-focus="1">Add your PITCHME.md slideshow content file.</span>
-<span class="code-presenting-annotation fragment current-only" data-code-focus="2">Commit PITCHME.md to your local repo.</span>
-<span class="code-presenting-annotation fragment current-only" data-code-focus="3">Push PITCHME.md to your public repo and you're done!</span>
-<span class="code-presenting-annotation fragment current-only" data-code-focus="5">Supports GitHub, GitLab, Bitbucket, GitBucket, Gitea, and Gogs.</span>
-
----
