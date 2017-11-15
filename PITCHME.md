@@ -36,9 +36,10 @@ Note:
 ## Where is AI/ML Used?
 
 - Marketing & Finance: Amazon, PayPal
-- Consumer Goods: Siri, Alexa, Google Home
+- Consumer Goods: Siri, Alexa, Google Home, Tesla
 - Entertainment: Facebook, Netflix, YouTube, Spotify
-- Travel: GE, Airbnb, Kayak
+- Travel: Airbnb, Kayak, Uber
+- Industry: GE, Kuka
 <br/>
 <br/>
 <br/>
@@ -62,10 +63,12 @@ Note:
 
 #### Geoff Hinton
 
-<img src="https://images.thestar.com/content/dam/thestar/news/world/2015/04/17/how-a-toronto-professors-research-revolutionized-artificial-intelligence/geoffrey-hinton-3.jpg.size-custom-crop.1086x0.jpg" style="width: 300px" />
+<img src="./assets/md/assets/geoffrey-hinton-3.jpg.size-custom-crop.1086x0.jpg" style="width: 300px" />
+
+_(one of the creators of deep learning)_
 
 Note:
-- fathers of deep learning
+- one of the creators of deep learning
 - While there may not be much ML/AI in healthcare now, there will be
 - It will come faster than you realize.
 - process
@@ -73,6 +76,22 @@ Note:
     2. Their pricing will be orders of magnitude lower than humans.
     3. Payers will change reimbursement.
     4. Done.
+
+---
+
+## A Brief History
+
+<div class="fragment history"><h4>1842 Ada Lovelace</h4><img src='/assets/Ada_Lovelace.jpg' style='biopic'/></div>
+<div class="fragment history"><h4>1950 Alan Turing</h4><img src='/assets/alan_turing.jpg' style='biopic'/></div>
+<div class="fragment history"><h4>1956 Marvin Minsky</h4><img src='/assets/Marvin_Minksy.jpg' style='biopic'/></div>
+<div class="fragment history"><h4>1965-1980s Expert Systems</h4><img src='/assets/foo.jpg' style='biopic'/></div>
+<div class="fragment history"><h4>1986 Rina Dechter</h4><img src='/assets/Rina_Dechter.jpg' style='biopic'/></div>
+<div class="fragment history"><h4>2006 Andrew Ng</h4><img src='/assets/Andrew_Ng.jpg' style='biopic'/></div>
+
+<div class="fragment ref">https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html</div>
+
+Note:
+- **Insert short one liners about each here**
 
 ---
 
@@ -94,23 +113,10 @@ Note:
 
 ---
 
-## A Brief History
-
-<div class="fragment history"><h4>1842 Ada Lovelace</h4><img src='/assets/Ada_Lovelace.jpg' style='biopic'/></div>
-<div class="fragment history"><h4>1950 Alan Turing</h4><img src='/assets/alan_turing.jpg' style='biopic'/></div>
-<div class="fragment history"><h4>1956 Marvin Minsky</h4><img src='/assets/Marvin_Minksy.jpg' style='biopic'/></div>
-<div class="fragment history"><h4>1965-1980s Expert Systems</h4><img src='/assets/foo.jpg' style='biopic'/></div>
-<div class="fragment history"><h4>1986 Rina Dechter</h4><img src='/assets/Rina_Dechter.jpg' style='biopic'/></div>
-<div class="fragment history"><h4>2006 Andrew Ng</h4><img src='/assets/Andrew_Ng.jpg' style='biopic'/></div>
-
-<div class="fragment ref">https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html</div>
+# ML In 5 Minutes
 
 Note:
-- **Insert short one liners about each here**
-
----
-
-# ML In 5 Minutes
+- Let's dig in a little deeper
 
 ---
 
@@ -135,7 +141,7 @@ Note:
 
 # Ground Truth?
 
-| age | height | gender | BMI | A1c | Retinopathy |
+| Age | Height | Gender | BMI | A1c | Readmission |
 | --- | ------ | ------ | --- | --- | ----------- |
 | 33  |  152   |   F    |  18 | 5.6 |      N      |
 | 66  |  168   |   M    |  21 | 8.9 |      Y      |
@@ -150,11 +156,11 @@ Note:
 
 ---
 
-# Traning
+# Traning Data
 
-## 80% of data is used to train.
+## 80% train
 
-## 20% used to evaluate & validate.
+## 20% Evaluate & validate
 
 Note:
 
@@ -164,6 +170,18 @@ Note:
     + lasso
     + neural nets
     + deep learning
+
+---
+
+## Do I need
+# Big Data
+
+<div class='fragment'><h3>Nope<sup>*</sup></h3></div>
+
+Note:
+- Remember it all depends how strong the signals are in the noise.
+- We've seen some models work well with only 100s of rows.
+- We've seen lots of success with 10k-30k rows.
 
 ---
 
