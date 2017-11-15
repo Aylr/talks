@@ -173,10 +173,11 @@ Note:
 
 ---
 
+# Wait!
 ## Do I need
-# Big Data
+# Big Data ?
 
-<div class='fragment'><h3>Nope<sup>*</sup></h3></div>
+<div class='fragment'><h2>Nope!</h2></div>
 
 Note:
 - Remember it all depends how strong the signals are in the noise.
@@ -190,15 +191,18 @@ Note:
 Note:
 - we've talked about
     + hype
-    + what
+    + how it works
 - not the **why**
 
 ---
 
 # LACE Score
 
-- 30 day readmission or death
-- Easy to calculate
+### Risk of 30 day readmission or death
+
+Note:
+- to tell this story, let's talk about readamissions
+- this illustrates well how healthcare changes
 
 ---
 
@@ -213,7 +217,9 @@ Note:
 |     |                        |
 
 Note:
-- Tell the story of readmissions
+- Here's what's great about LACE
+- Easy to calculate at discharge
+- has had a large impact in quality of care
 
 ---
 
