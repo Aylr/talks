@@ -400,5 +400,3 @@ Note:
 - taylor.miller@healthcatalyst.com
 
 ![hcai](assets/healthcareai_hex_logo_300.png)
-
----
