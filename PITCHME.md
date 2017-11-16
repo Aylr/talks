@@ -394,12 +394,11 @@ Note:
 # Resources
 
 - healthcare.ai community
-    + Education
+    + ML Basics, Tutorials, Lessons Learned
     + Open Source Tools
     + Slack channel
-- healthcatalyst.com
 - taylor.miller@healthcatalyst.com
 
-![hcai](assets/healthcareai_hex_logo.png)
+![hcai](assets/healthcareai_hex_logo_120.png)
 
 ---
