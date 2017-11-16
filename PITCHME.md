@@ -9,6 +9,8 @@
 #### Taylor Miller PharmD
 #### Data Scientist @ Health Catalyst
 
+<img src="https://www.healthcatalyst.com/wp-content/themes/health_catalyst_v4.1_timber/images/logotype/logotype.svg"/>
+
 github: @Aylr
 
 ---
