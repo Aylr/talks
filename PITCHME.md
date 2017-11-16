@@ -63,7 +63,7 @@ Note:
 
 #### Geoff Hinton
 
-<img src="./assets/md/assets/geoffrey-hinton-3.jpg.size-custom-crop.1086x0.jpg" style="width: 300px" />
+![](assets/geoffrey-hinton-3.jpg.size-custom-crop.1086x0.jpg)
 
 _(one of the creators of deep learning)_
 
@@ -202,6 +202,7 @@ Note:
 ### Risk of 30 day readmission or death
 
 Note:
+- study ran from 2004-2008 and published in 2010
 - to tell this story, let's talk about readamissions
 - this illustrates well how healthcare changes
 
