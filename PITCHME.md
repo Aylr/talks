@@ -370,7 +370,7 @@ Note:
 
 # healthcare.ai
 
-![hcai](assets/healthcareai_logo.png)
+![hcai](assets/healthcareai_hex_logo.png)
 
 #### Feature Engineering
 #### Model Development

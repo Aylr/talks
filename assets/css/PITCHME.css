@@ -1,7 +1,7 @@
 .reveal section img {
   border: 0 !important;
   box-shadow: none !important;
-  background: none !important;
+  background: rgba(0,0,0,0) !important;
 }
 
 .reveal .ref {
