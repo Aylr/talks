@@ -79,7 +79,7 @@ Note:
 
 ---
 
-# A Brief History
+<h1 style='margin-top: -2em'>A Brief History</h1>
 
 <h2 class="fragment current-only history">1842 Ada Lovelace<br/><img src='https://upload.wikimedia.org/wikipedia/commons/1/1a/Ada_Lovelace_portrait_circa_1840.jpg' style='width:200px' /></h2>
 <h2 class="fragment current-only history">1950 Alan Turing<br/><img src='https://upload.wikimedia.org/wikipedia/commons/a/a1/Alan_Turing_Aged_16.jpg' style='width:200px' /></h2>
