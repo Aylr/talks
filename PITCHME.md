@@ -400,5 +400,6 @@ Note:
     + Open Source Tools
     + Slack channel for realitime discussions
 - taylor.miller@healthcatalyst.com
+- http://bit.ly/healthimpactmidwest
 
 ![hcai](assets/healthcareai_hex_logo_300.png)
