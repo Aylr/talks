@@ -122,7 +122,7 @@ Note:
 
 # Signal vs Noise
 
-![img](assets/signal2.png)
+![img](assets/signal2.png) &nbsp;&nbsp;&nbsp;&nbsp;
 ![img](assets/noise2.png)
 
 ---
