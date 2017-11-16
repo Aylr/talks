@@ -399,6 +399,6 @@ Note:
     + Slack channel
 - taylor.miller@healthcatalyst.com
 
-![hcai](assets/healthcareai_hex_logo_120.png)
+![hcai](assets/healthcareai_hex_logo_300.png)
 
 ---
