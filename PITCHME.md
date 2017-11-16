@@ -81,12 +81,12 @@ Note:
 
 ## A Brief History
 
-<div class="fragment history"><h4>1842 Ada Lovelace</h4><img src='https://upload.wikimedia.org/wikipedia/commons/1/1a/Ada_Lovelace_portrait_circa_1840.jpg' style='biopic'/></div>
-<div class="fragment history"><h4>1950 Alan Turing</h4><img src='/assets/alan_turing.jpg' style='biopic'/></div>
-<div class="fragment history"><h4>1956 Marvin Minsky</h4><img src='/assets/Marvin_Minksy.jpg' style='biopic'/></div>
-<div class="fragment history"><h4>1965-1980s Expert Systems</h4><img src='/assets/foo.jpg' style='biopic'/></div>
-<div class="fragment history"><h4>1986 Rina Dechter</h4><img src='/assets/Rina_Dechter.jpg' style='biopic'/></div>
-<div class="fragment history"><h4>2006 Andrew Ng</h4><img src='/assets/Andrew_Ng.jpg' style='biopic'/></div>
+<div class="fragment history"><h4>1842 Ada Lovelace</h4><img src='https://upload.wikimedia.org/wikipedia/commons/1/1a/Ada_Lovelace_portrait_circa_1840.jpg' class='biopic'/></div>
+<div class="fragment history"><h4>1950 Alan Turing</h4><img src='/assets/alan_turing.jpg' class='biopic'/></div>
+<div class="fragment history"><h4>1956 Marvin Minsky</h4><img src='/assets/Marvin_Minksy.jpg' class='biopic'/></div>
+<div class="fragment history"><h4>1965-1980s Expert Systems</h4><img src='/assets/foo.jpg' class='biopic'/></div>
+<div class="fragment history"><h4>1986 Rina Dechter</h4><img src='/assets/Rina_Dechter.jpg' class='biopic'/></div>
+<div class="fragment history"><h4>2006 Andrew Ng</h4><img src='/assets/Andrew_Ng.jpg' class='biopic'/></div>
 
 <div class="fragment ref">https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html</div>
 
