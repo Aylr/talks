@@ -369,7 +369,6 @@ Note:
 ---
 
 ![hcai](assets/healthcareai_hex_logo.png)
-
 ## Open source
 
 #### Feature Engineering
