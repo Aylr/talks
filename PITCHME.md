@@ -89,7 +89,11 @@ Note:
 <h2 class="fragment current-only history">2006 Andrew Ng<br/><img src='https://spark-summit.org/2016/wp-content/uploads/sites/12/2016/04/Andrew-Ng.jpg' style='width:200px' /></h2>
 
 Note:
-- **Insert short one liners about each here**
+- Ada: the first computer programmer and recognized potential of a computing machine even though she never saw one work.
+- Alan: General purpose computing. Father of CS
+- Marvin: Coined the term AI. Foundational work for neural nets.
+- Rina: CS PhD U of CA coined the term deep learning
+- Andrew: Google researcher first commerical deep learning use
 
 ---
 
