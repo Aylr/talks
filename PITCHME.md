@@ -324,6 +324,7 @@ Note:
 
 Note:
 - This seems obvious in retrospect.
+- Surface insight in the right workflow.
 - Agile development methodologies are a game changer
 
 ---
@@ -343,7 +344,9 @@ Note:
 
 ## This is hard
 
-**maybe not needed?**
+Note:
+- Technical integration is hard.
+- Make sure your data platform supports ML
 
 ---
 
@@ -365,15 +368,14 @@ Note:
 
 ---
 
-## healthcare.ai
+# healthcare.ai
 
-### Feature Engineering
+![hcai](assets/healthcareai_hex_logo.png)
 
-### Model Development
-
-### Model Deployment
-
-### Extras
+#### Feature Engineering
+#### Model Development
+#### Model Deployment
+#### Extras
 
 ---
 
