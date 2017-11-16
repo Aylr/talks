@@ -69,8 +69,6 @@ Note:
 
 <img src="https://images.thestar.com/content/dam/thestar/news/world/2015/04/17/how-a-toronto-professors-research-revolutionized-artificial-intelligence/geoffrey-hinton-3.jpg" style="width: 300px" />
 
-_(one of the creators of deep learning)_
-
 Note:
 - one of the creators of deep learning
 - While there may not be much ML/AI in healthcare now, there will be
