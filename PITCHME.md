@@ -374,6 +374,7 @@ Note:
 
 <div class='fragment'>
     <h2>100% Open source</h2>
+    <h2>Python &amp; R</h2>
     <h2>Simplify &amp; Expedite<br/>ML Adoption</h2>
 </div>
 <div class="fragment">
