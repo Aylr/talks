@@ -82,17 +82,13 @@ Note:
 ## A Brief History
 <br/>
 <br/>
-<br/>
-<br/>
 
-<div class="fragment current-only history"><h4>1842 Ada Lovelace</h4><img src='https://upload.wikimedia.org/wikipedia/commons/1/1a/Ada_Lovelace_portrait_circa_1840.jpg' class='biopic'/></div>
-<div class="fragment current-only history"><h4>1950 Alan Turing</h4><img src='https://upload.wikimedia.org/wikipedia/commons/a/a1/Alan_Turing_Aged_16.jpg' class='biopic'/></div>
-<div class="fragment current-only history"><h4>1956 Marvin Minsky</h4><img src='http://www.kurzweilai.net/images/Marvin-Minksy-PhD-B3.png' class='biopic'/></div>
-<div class="fragment current-only history"><h4>1965-1980s Expert Systems</h4></div>
-<div class="fragment current-only history"><h4>1986 Rina Dechter</h4><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Rina_Dechter.jpg/1920px-Rina_Dechter.jpg' class='biopic'/></div>
-<div class="fragment current-only history"><h4>2006 Andrew Ng</h4><img src='https://spark-summit.org/2016/wp-content/uploads/sites/12/2016/04/Andrew-Ng.jpg' class='biopic'/></div>
-
-<div class="fragment ref">https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html</div>
+<h4 class="fragment current-only history">1842 Ada Lovelace<br/><img src='https://upload.wikimedia.org/wikipedia/commons/1/1a/Ada_Lovelace_portrait_circa_1840.jpg' class='biopic'/></h4>
+<h4 class="fragment current-only history">1950 Alan Turing<br/><img src='https://upload.wikimedia.org/wikipedia/commons/a/a1/Alan_Turing_Aged_16.jpg' class='biopic'/></h4>
+<h4 class="fragment current-only history">1956 Marvin Minsky<br/><img src='http://www.kurzweilai.net/images/Marvin-Minksy-PhD-B3.png' class='biopic'/></h4>
+<h4 class="fragment current-only history">1965-1980s Expert Sys<br/>/h4></h4>
+<h4 class="fragment current-only history">1986 Rina Dechter<br/><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Rina_Dechter.jpg/1920px-Rina_Dechter.jpg' class='biopic'/></h4>
+<h4 class="fragment current-only history">2006 Andrew Ng<br/><img src='https://spark-summit.org/2016/wp-content/uploads/sites/12/2016/04/Andrew-Ng.jpg' class='biopic'/></h4>
 
 Note:
 - **Insert short one liners about each here**
