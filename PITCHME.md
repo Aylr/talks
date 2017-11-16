@@ -395,11 +395,13 @@ Note:
 
 # Resources
 
-- healthcare.ai community
-    + ML Basics, Tutorials, Lessons Learned
-    + Open Source Tools
-    + Slack channel for realitime discussions
-- taylor.miller@healthcatalyst.com
+- http://healthcare.ai
 - http://bit.ly/healthimpactmidwest
+- taylor.miller@healthcatalyst.com
 
 ![hcai](assets/healthcareai_hex_logo_300.png)
+
+Note:
+- ML Basics, Tutorials, Lessons Learned
+- Open Source Tools
+- Slack channel for realitime discussions
