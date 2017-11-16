@@ -79,14 +79,14 @@ Note:
 
 ---
 
-## A Brief History
+# A Brief History
 
-<h3 class="fragment current-only history">1842 Ada Lovelace<br/><img src='https://upload.wikimedia.org/wikipedia/commons/1/1a/Ada_Lovelace_portrait_circa_1840.jpg' class='biopic'/></h3>
-<h3 class="fragment current-only history">1950 Alan Turing<br/><img src='https://upload.wikimedia.org/wikipedia/commons/a/a1/Alan_Turing_Aged_16.jpg' class='biopic'/></h3>
-<h3 class="fragment current-only history">1956 Marvin Minsky<br/><img src='http://www.kurzweilai.net/images/Marvin-Minksy-PhD-B3.png' class='biopic'/></h3>
-<h3 class="fragment current-only history">1965-1980s Expert Systems</h3>
-<h3 class="fragment current-only history">1986 Rina Dechter<br/><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Rina_Dechter.jpg/1920px-Rina_Dechter.jpg' class='biopic'/></h3>
-<h3 class="fragment current-only history">2006 Andrew Ng<br/><img src='https://spark-summit.org/2016/wp-content/uploads/sites/12/2016/04/Andrew-Ng.jpg' class='biopic'/></h3>
+<h2 class="fragment current-only history">1842 Ada Lovelace<br/><img src='https://upload.wikimedia.org/wikipedia/commons/1/1a/Ada_Lovelace_portrait_circa_1840.jpg' class='biopic'/></h2>
+<h2 class="fragment current-only history">1950 Alan Turing<br/><img src='https://upload.wikimedia.org/wikipedia/commons/a/a1/Alan_Turing_Aged_16.jpg' class='biopic'/></h2>
+<h2 class="fragment current-only history">1956 Marvin Minsky<br/><img src='http://www.kurzweilai.net/images/Marvin-Minksy-PhD-B3.png' class='biopic'/></h2>
+<h2 class="fragment current-only history">1965-1980s Expert Systems</h2>
+<h2 class="fragment current-only history">1986 Rina Dechter<br/><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Rina_Dechter.jpg/1920px-Rina_Dechter.jpg' class='biopic'/></h2>
+<h2 class="fragment current-only history">2006 Andrew Ng<br/><img src='https://spark-summit.org/2016/wp-content/uploads/sites/12/2016/04/Andrew-Ng.jpg' class='biopic'/></h2>
 
 Note:
 - **Insert short one liners about each here**
