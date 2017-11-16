@@ -2,4 +2,4 @@ theme : black
 footnote : "http://healthcare.ai"
 # logo : assets/healthcareai_hex_logo_120.png
 slide-number : false
-theme-override : assets/css/PITCHME.css
+# theme-override : assets/css/PITCHME.css
