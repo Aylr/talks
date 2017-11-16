@@ -373,9 +373,10 @@ Note:
 <br/>
 
 <div class='fragment'>
-<h2>100% Open source</h2>
-<h2>Simplify &amp; Expedite<br/>ML Adoption</h2>
-
+    <h2>100% Open source</h2>
+    <h2>Simplify &amp; Expedite<br/>ML Adoption</h2>
+</div>
+<div class="fragment">
     <img src="https://healthcare.ai/wp-content/uploads/2017/11/levi-thatcher-600x0-c-default.png" style="width: 100px; height: 100px;"/>
     <img src="https://healthcare.ai/wp-content/uploads/2017/02/Taylor-Larsen-600x0-c-default.png" style="width: 100px; height: 100px;"/>
     <img src="https://healthcare.ai/wp-content/uploads/2017/02/michael-mastanduno-600x0-c-default.jpg" style="width: 100px; height: 100px;"/>
