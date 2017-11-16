@@ -80,6 +80,10 @@ Note:
 ---
 
 ## A Brief History
+<br/>
+<br/>
+<br/>
+<br/>
 
 <div class="fragment current-only history"><h4>1842 Ada Lovelace</h4><img src='https://upload.wikimedia.org/wikipedia/commons/1/1a/Ada_Lovelace_portrait_circa_1840.jpg' class='biopic'/></div>
 <div class="fragment current-only history"><h4>1950 Alan Turing</h4><img src='https://upload.wikimedia.org/wikipedia/commons/a/a1/Alan_Turing_Aged_16.jpg' class='biopic'/></div>
