@@ -397,7 +397,7 @@ Note:
 - healthcare.ai community
     + ML Basics, Tutorials, Lessons Learned
     + Open Source Tools
-    + Slack channel
+    + Slack channel for realitime discussions
 - taylor.miller@healthcatalyst.com
 
 ![hcai](assets/healthcareai_hex_logo_300.png)
