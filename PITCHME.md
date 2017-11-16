@@ -372,7 +372,8 @@ Note:
 
 ## 100% Open source
 
-## Simplify & Expedite ML Adoption
+## Simplify & Expedite
+## ML Adoption
 
 <div class="fragment">
     <img src="https://healthcare.ai/wp-content/uploads/2017/11/levi-thatcher-600x0-c-default.png" style="width: 100px"/>
