@@ -7,6 +7,8 @@
 # Who Am I
 
 #### Taylor Miller PharmD
+#### Data Scientist
+#### Health Catalyst
 
 github: @Aylr
 
