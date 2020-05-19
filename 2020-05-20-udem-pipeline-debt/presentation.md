@@ -1,3 +1,4 @@
+autoscale: true
 
 # Crushing
 # Pipeline Debt
@@ -28,12 +29,15 @@ We are data mercenaries for hire hell-bent on data quality.
 
 Here's some software!
 BTW it's...
+# [fit] .
+# [fit] .
+# [fit] .
 
 ---
 
 ![](leviathan.jpg)
 
-Here's some _software_!
+Here's some software!
 BTW it's...
 
 # [fit] **_Un_**documented
@@ -44,7 +48,7 @@ BTW it's...
 
 ![](leviathan.jpg)
 
-Here's some _software_!
+Here's some software!
 BTW it's...
 
 # [fit] **_Un_**documented
@@ -55,7 +59,51 @@ BTW it's...
 
 ![](leviathan.jpg)
 
-Here's some _software_!
+Here's some software!
+BTW it's...
+
+# [fit] **_Un_**documented
+# [fit] **_Un_**tested
+# [fit] **_Un_**stable
+
+---
+
+![](leviathan.jpg)
+
+Here's some ~~software~~ data!
+BTW it's...
+
+# [fit] .
+# [fit] .
+# [fit] .
+
+---
+
+![](leviathan.jpg)
+
+Here's some ~~software~~ data!
+BTW it's...
+
+# [fit] **_Un_**documented
+# [fit] .
+# [fit] .
+
+---
+
+![](leviathan.jpg)
+
+Here's some ~~software~~ data!
+BTW it's...
+
+# [fit] **_Un_**documented
+# [fit] **_Un_**tested
+# [fit] .
+
+---
+
+![](leviathan.jpg)
+
+Here's some ~~software~~ data!
 BTW it's...
 
 # [fit] **_Un_**documented
@@ -64,36 +112,9 @@ BTW it's...
 
 ---
 
-![](leviathan.jpg)
+# Pipeline Debt
 
-Here's some ~~_software_~~ _data_!
-BTW it's...
-
-# [fit] **_Un_**documented
-# [fit] .
-# [fit] .
-
----
-
-![](leviathan.jpg)
-
-Here's some ~~_software_~~ _data_!
-BTW it's...
-
-# [fit] **_Un_**documented
-# [fit] **_Un_**tested
-# [fit] .
-
----
-
-![](leviathan.jpg)
-
-Here's some ~~_software_~~ _data_!
-BTW it's...
-
-# [fit] **_Un_**documented
-# [fit] **_Un_**tested
-# [fit] **_Un_**stable
+![right fit](leviathan.jpg)
 
 ---
 
@@ -112,8 +133,8 @@ BTW it's...
 
 # But why test pipelines?
 
-1. Pager mitigation
-2. Risk mitigation
+1. Risk mitigation
+2. Pager mitigation
 3. Increase trust & credibility
 4. Codify knowledge & assumptions
 
@@ -126,26 +147,21 @@ BTW it's...
 
 ---
 
-# [fit] **_pipeline risks_**
+# [fit] Pipeline Risks:
 
-# [fit] missing or empty files
-# [fit] mangled loads
-# [fit] outages
+# [fit] missing / empty files **_mangled loads_**
 # [fit] corrupted data
-# [fit] schema changes
+# [fit] **_schema changes_** outages
 # [fit] unexpected values
 
 ---
 
-# [fit] Data Risks
+# [fit] Data Risks:
 
-#[fit] outliers
-#[fit] distribution drift
-#[fit] edge cases
-#[fit] bias
-#[fit] evolution
-#[fit] outages
+#[fit] **_distribution drift_**
 #[fit] model assumptions
+#[fit] **_evolution_** edge cases
+#[fit] bias **_outliers_**
 
 ---
 
@@ -156,8 +172,25 @@ BTW it's...
 
 ---
 
-# Expectations are assertions about data 
-# TODO examples
+[.build-lists: true]
+
+## Expectations are assertions about data
+
+- `expect_file_size_to_be_between`
+- `expect_table_row_count_to_be_between`
+- `expect_column_to_exist`
+- `expect_column_values_to_not_be_null`
+- `expect_column_values_to_be_unique`
+- `expect_column_values_to_be_between`
+- `expect_column_values_to_be_in_set`
+- `expect_column_values_to_match_regex`
+- `expect_column_mean_to_be_between`
+- `expect_column_kl_divergence_to_be_less_than`
+- ... and many many more[^1]
+
+[^1]: https://docs.greatexpectations.io/en/latest/expectation_glossary.html
+
+^ declarative
 
 ---
 
@@ -175,9 +208,9 @@ BTW it's...
 
 # Tests are docs and docs are tests
 
-Everything is JSON :robot:
-Compile to HTML or Notebooks
-This means that docs cannot get stale!
+- Everything is JSON 🤖
+- Compile to HTML or Notebooks 🤗
+- Docs cannot get stale!
 
 ---
 
@@ -200,7 +233,7 @@ This means that docs cannot get stale!
 
 The WAP pattern![^2]
 
-[^2]: Netflix
+[^3]: Scaling Data Quality at Netflix https://www.slideshare.net/MichelleFUfford/scaling-data-quality-netflix-76917740
 
 ---
 
@@ -208,18 +241,9 @@ The WAP pattern![^2]
 
 ![right fit](wap_advanced.png)
 
-The WAP pattern![^3]
+The WAP pattern![^2]
 
-[^3]: Netflix
-
----
-
-# [fit] The era of
-# [fit] pager duty fires is over.
-# [fit] The protagonists **_get the value of GE_**
-# [fit] integrated in their pipelines,
-# [fit] Top Gun high five
-# [fit] and enjoy their better work lives.
+[^2]: Scaling Data Quality at Netflix https://www.slideshare.net/MichelleFUfford/scaling-data-quality-netflix-76917740
 
 ---
 
@@ -236,8 +260,6 @@ Join us at greatexpectations.io
 # Misc
 
 ## Backstory
-
-
 
 ## Funding & Philosophy
 
