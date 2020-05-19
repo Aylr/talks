@@ -1,9 +1,9 @@
 autoscale: true
 
-# Crushing
-# Pipeline Debt
-_With_
-# **Great Expectations**
+# [fit] **_Crushing_**
+# [fit] Pipeline Debt
+## **_With_**
+# [fit] **Great Expectations**
 
 Taylor Miller @ Superconductive
 
@@ -12,6 +12,7 @@ Taylor Miller @ Superconductive
 # 👋
 
 I'm from Superconductive.com
+
 We are data mercenaries for hire hell-bent on data quality.
 
 ---
@@ -147,6 +148,8 @@ BTW it's...
 
 ---
 
+![](the-creation-of-fish-and-birds.jpg)
+
 # [fit] Pipeline Risks:
 
 # [fit] missing / empty files **_mangled loads_**
@@ -155,6 +158,8 @@ BTW it's...
 # [fit] unexpected values
 
 ---
+
+![](the-creation-of-fish-and-birds.jpg)
 
 # [fit] Data Risks:
 
@@ -166,9 +171,9 @@ BTW it's...
 ---
 
 # Great Expectations
-## Always know what to expect from your data
 
-# TODO logo
+![inline scale: 75%](pip.png)
+### Always know what to expect from your data
 
 ---
 
@@ -195,13 +200,23 @@ BTW it's...
 ---
 
 # Where's does the compute happen?
-## Great Expectations uses different back-end compute engines
-# TODO
+### **_Great Expectations uses different back-end compute engines_**
+
+- pandas
+- Spark
+- Common relational databases via SQLAlchemy
+    + Redshift
+    + BigQuery
+    + Snowflake
+    + Postgres
+    + MySQL
+
+^ Expectations are written in python and compiled to execute natively on the compute engine.
 
 ---
 
 # [fit] Tests are docs
-# [fit] and
+# [fit] **_and_**
 # [fit] Docs are tests
 
 ---
@@ -216,14 +231,19 @@ BTW it's...
 
 # How to crush pipeline debt
 
-- data ingest
-    + especially if the data isn't controlled your team
-- before & after ML models
-    + prevent malfeasant AI
-- critical dashboard tables
-    + Don't piss off an executive
-- analytic warehouses
-    + Be good data driven.
+[.column]
+## _**data ingest**_
+especially if the data isn't controlled your team
+
+## _**before & after ML models**_
+prevent malfeasant AI
+
+[.column]
+## _**analytic warehouses**_
+Be good data driven.
+
+## _**critical dashboard tables**_
+Don't piss off an executive
 
 ---
 
