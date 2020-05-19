@@ -273,7 +273,13 @@ The WAP pattern![^2]
 
 Thank you!
 
-Join us at greatexpectations.io
+Give us a look :eyes: greatexpectations.io
+
+Give us a shout :mega: greatexpectations.io/slack
+
+Give us a star :star: github.com/great-expectations/great_expectations
+
+Give us a try :rocket: `pip install great_expectations`
 
 ---
 
