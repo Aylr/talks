@@ -6,6 +6,7 @@ autoscale: true
 # [fit] **Great Expectations**
 
 Taylor Miller @ Superconductive
+http://tiny.cc/udem-ge
 
 ---
 
@@ -45,6 +46,8 @@ BTW it's...
 # [fit] .
 # [fit] .
 
+^ Figure it out yourself
+
 ---
 
 ![](leviathan.jpg)
@@ -55,6 +58,8 @@ BTW it's...
 # [fit] **_Un_**documented
 # [fit] **_Un_**tested
 # [fit] .
+
+^ Yeah, we haven't had time to do that.
 
 ---
 
@@ -67,6 +72,8 @@ BTW it's...
 # [fit] **_Un_**tested
 # [fit] **_Un_**stable
 
+^ The APIs might change. And I won't be able to warn you.
+
 ---
 
 ![](leviathan.jpg)
@@ -77,6 +84,8 @@ BTW it's...
 # [fit] .
 # [fit] .
 # [fit] .
+
+^ I'm a Data Engineer. might be analytics, might be a warehouse, etc
 
 ---
 
@@ -88,6 +97,8 @@ BTW it's...
 # [fit] **_Un_**documented
 # [fit] .
 # [fit] .
+
+^ It's hard to keep those up to date - there might be an old data dictionary on the wiki somewhere
 
 ---
 
@@ -110,6 +121,8 @@ BTW it's...
 # [fit] **_Un_**documented
 # [fit] **_Un_**tested
 # [fit] **_Un_**stable
+
+^ Meaning may change. Fields may appear or disappear.
 
 ---
 
@@ -119,8 +132,8 @@ BTW it's...
 
 ---
 
-# Pipelines are like software.
-# And also not.
+# [fit] Pipelines are like software.
+## And also not.
 
 |                       |     Software    |   Pipelines   |
 |-----------------------|-----------------|---------------|
@@ -138,13 +151,6 @@ BTW it's...
 2. Pager mitigation
 3. Increase trust & credibility
 4. Codify knowledge & assumptions
-
----
-
-# What types of risk can we mitigate?
-
-1. Pipeline risks
-2. Data risks
 
 ---
 
@@ -170,10 +176,18 @@ BTW it's...
 
 ---
 
-# Great Expectations
+# Question Time
+![](the-creation-of-fish-and-birds-monster.jpg)
 
-![inline scale: 75%](pip.png)
-### Always know what to expect from your data
+---
+
+# [fit] Great Expectations
+
+![inline scale: 85%](pip.png)
+# [fit] **_Always know what to expect from your data_**
+
+^ open source python package
+^ started in 2017
 
 ---
 
@@ -196,6 +210,8 @@ BTW it's...
 [^1]: https://docs.greatexpectations.io/en/latest/expectation_glossary.html
 
 ^ declarative
+almost 50 of them
+you can create custom ones for your domain
 
 ---
 
@@ -219,13 +235,20 @@ BTW it's...
 # [fit] **_and_**
 # [fit] Docs are tests
 
+^ lets look closer
+
 ---
 
 # Tests are docs and docs are tests
+![left fit](datadocs.gif)
 
 - Everything is JSON 🤖
 - Compile to HTML or Notebooks 🤗
 - Docs cannot get stale!
+
+^ expectations are JSON
+validations are JSON
+as long as you run tests you docs CANNOT get stale
 
 ---
 
@@ -244,6 +267,8 @@ Be good data driven.
 
 ## _**critical dashboard tables**_
 Don't piss off an executive
+
+^ Ok. Where do we start?
 
 ---
 
@@ -267,11 +292,26 @@ The WAP pattern![^2]
 
 ---
 
-# [fit] live demo
+# Question Time
+![](and-seems-a-moving-land-and-at-his-gills-draws-in-and-at-his-trunk-spouts-out-a-sea-crop.jpg)
 
 ---
 
-Thank you!
+# [fit] live demo
+
+^ 1. setup GE
+2. Create an expectation suite
+3. Edit that suite to hone it
+4. deploy it
+
+---
+
+# Question Time
+![](the-creation-of-fish-and-birds-monster.jpg)
+
+---
+
+# Thank you!
 
 Give us a look :eyes: greatexpectations.io
 
