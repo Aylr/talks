@@ -311,6 +311,19 @@ The WAP pattern![^2]
 
 ---
 
+# Let's work together!
+
+## Open Source
+Slack: Questions, ideas, random data banter
+GitHub: Feature requests, bugs, pull requests
+Deploy-a-thons: Work with us to get set up in a 1/2 day
+
+## Options where money changes hands:
+Open source support contracts
+Lighthouse partnerships
+
+---
+
 # Thank you!
 
 Give us a look :eyes: greatexpectations.io
