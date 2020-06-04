@@ -1,29 +1,16 @@
 autoscale: true
 
+![right fit](leviathan.jpg)
+
 # [fit] **_Crushing_**
 # [fit] Pipeline Debt
 ## **_With_**
 # [fit] **Great Expectations**
 
 Taylor Miller @ Superconductive
-http://tiny.cc/udem-ge
 
----
-
-# 👋
-
-I'm from Superconductive.com
-
+^ 👋
 We are data mercenaries for hire hell-bent on data quality.
-
----
-
-# agenda
-
-1. How to crush pipeline debt
-2. Live demo
-
-![right fit](leviathan.jpg)
 
 ---
 
@@ -202,4 +189,3 @@ Give us a star :star: github.com/great-expectations/great_expectations
 
 Give us a try :rocket: `pip install great_expectations`
 
----
