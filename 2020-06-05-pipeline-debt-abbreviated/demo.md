@@ -1,23 +1,21 @@
-## LINKS
-
-- http://tiny.cc/udem-ge
-- doc: https://docs.google.com/document/d/1v8rRjGALiXZlBgE6nQJ0vuNz5iKEf5ZmDGULxePXoUY
-- stories https://docs.google.com/forms/d/1-NfH7lP7Yez2WrnEMOnG765aPJYeoV4md457bn7k5ak/edit#responses
-
-## Live Demo
+# GE Live Demo
 
 - GE project should live in your pipeline source control.
 - `tree`
-- talk about GE CLI noun verb
 - Here I have some csv files that I want to work with. These might be source files on S4, etc.
+- talk about GE CLI noun verb
+    + `great_expectations`
 - `great_expectations init`
 - files datasource
     + name suite: `demo`
 - Show data docs and a few expectations
 - **Not terribly helpful - let's make a more real suite.**
+
+## A real suite
+
 - `great_expectations suite delete demo`
 - Scaffold a suite
-    + `great_expectations suite scaffold`
+    + `great_expectations suite scaffold npi`
     + Columns to include:
 ```
 included_columns = [
@@ -29,7 +27,7 @@ included_columns = [
     'nppes_provider_gender',
     'nppes_entity_code',
     ...
-    'beneficiary_average_age',
+     'beneficiary_average_age',
     ...
     # 'beneficiary_cc_strk_percent',
     'beneficiary_avg_risk_score'
@@ -43,8 +41,18 @@ included_columns = [
     - **How do you actually author an expectation?**
         + **result object**
     - Adjust a few expectations.
+        + row count: 5k - 15k
         + npi
+            * unique --> False!
             * **data tests must be more flexible MOSTLY**
+        + credentials
+            * remove unique
+            * add length 2 --> 20
+        + gender
+            * not null mostly 0.9
+            * set F/M
+            * KL divergence: f:0.45, M:0.55, threshold 0.1
+            * 
         + **remove uniques on credentials, numeric columns**
     - **GLOSSARY**
         - talk about extensibility
@@ -62,10 +70,14 @@ states = [
 
 ### Deployment
 
-- `great_expectations checkpoint new`
+- Core concepts: Expectation + Batch = Validation
+    + Checkpoint is an easy way to mash these together
+- requires existing suite: `great_expectations suite list`
+- `great_expectations checkpoint new npi_ingest npi`
 - `great_expectations checkpoint run`
 - swap in bad data
-- configure slack
+- configure slack 
+https://hooks.slack.com/services/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
 
 ```
 - name: send_slack_notification_on_validation_result
